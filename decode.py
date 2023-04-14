@@ -28,9 +28,11 @@ for line in sys.stdin:
             if i < (size - 1):
                 for j in range(size):
                     if ((i, j),(i + 1, j)) in segs:
-                        print("|  ", end = "")
+                        print("|", end = "")
                     else:
-                        print("   ", end = "")
+                        print(" ", end = "")
+                    if j != (size - 1):
+                        print("  ", end = "")
                 print("")
         
         break
