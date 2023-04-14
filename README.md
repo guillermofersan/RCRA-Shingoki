@@ -69,7 +69,7 @@ Again, we will build a python program called **decode.py** that will take the ou
 
 ​    clingo shingokiKB.lp shingoki1.lp | python decode.py > solution1.txt
 
-4. You can use or adapt the following visualizer in clingraph, viz.lp, to be executed with the following command. The input for the visualizer is based on predicates:
+4. You can use or adapt the following visualizer in clingraph, [viz.lp](./viz.lp), to be executed with the following [command](./command). The input for the visualizer is based on predicates:
 
 - size(N) = the number N of rows and columns in the square grid
 - number( (X,Y), N) = it means there is a non-zero number N in the position (X,Y) in the input file
