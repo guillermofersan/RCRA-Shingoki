@@ -2,7 +2,7 @@
 Práctica para la asignatura de RCRA. Ingeniería informática UDC. 
 Realizada por:
 - Guillermo Fernández Sánchez
-- Rodrigo Naranjo González
+- [Rodrigo Naranjo González](https://github.com/rng1)
 
 Nota: 2/2
 
