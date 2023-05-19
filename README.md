@@ -1,4 +1,7 @@
 # RCRA-Shingoki
+
+Shingoki puzzle solver using clingo, clingraph and python
+
 Práctica para la asignatura de RCRA. Ingeniería informática UDC. 
 Realizada por:
 - Guillermo Fernández Sánchez
