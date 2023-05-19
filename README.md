@@ -1,7 +1,10 @@
 # RCRA-Shingoki
-Práctica para la asignatura de RCRA. Ingeniería informática UDC.
+Práctica para la asignatura de RCRA. Ingeniería informática UDC. 
+Realizada por:
 - Guillermo Fernández Sánchez
 - Rodrigo Naranjo González
+
+Nota: 2/2
 
 Enlace con el enunciado: https://www.dc.fi.udc.es/~cabalar/kr/current/ex1.html
 
