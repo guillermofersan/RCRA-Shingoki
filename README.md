@@ -75,9 +75,13 @@ The python program called [**decode.py**](./decode.py) takes the output of cling
 
 ​    clingo shingokiKB.lp shingoki1.lp | python decode.py > solution1.txt
 
+------
+
 4.  There is also a visualizer in clingraph, [viz.lp](./viz.lp), to be executed with the following [command](./command). An execution examples could be as follows:
 
 ​    ./command shingoki1.lp
+
+------
 
 
 
